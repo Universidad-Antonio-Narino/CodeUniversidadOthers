@@ -7,4 +7,4 @@
 > Estar registrado en github.
 
 > [!IMPORTANT]
-> instalar el control de versiones git, que de hecho aqui te dejo el link de descarga y un video de como descargarlo
+> instalar el control de versiones git, que de hecho aqui te dejo el link de descarga y un video de como descargarlo [Enlace de descarga git](https://git-scm.com/) , [video descargar git](https://www.youtube.com/watch?v=Fcf7DrDPu08)
