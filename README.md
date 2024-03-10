@@ -21,6 +21,7 @@
       - Github Enterprise; Para repositorios privados de empresas.
       - Url; este es el que necitamos asi que da **click**.
    - Despues de haber dado click copia esta url ``` https://github.com/Universidad-Antonio-Narino/CodeUniversidadOthers.git``` 
-   > [!NOTE]
-   > Sabras que esta clonando porque aparecera esto ![clonando...](/imge/yaClonado.png)
+> [!NOTE]
+> Sabras que esta clonando porque aparecera esto ![clonando...](/imge/yaClonado.png)
+
 
