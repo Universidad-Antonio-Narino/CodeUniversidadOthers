@@ -13,7 +13,14 @@
 > [!NOTE]
 > Sabras que esta clonando porque aparecera esto ![clonando...](/imge/yaClonado.png)
 > [!TIP]
-> Debes tener instalado bien sea visual studio code o devc++ para poder codear, como consejo es mejor que instales visual studio, te dejare el link de descarga. [Link de instalacion vsd](https://code.visualstudio.com/download)
+> Debes tener instalado bien sea visual studio code o devc++ para poder codear, como consejo es mejor que instales visual studio, te dejare el link de descarga. [Link de instalacion vsd](https://code.visualstudio.com/download), si no tambien puedes utilizar el entorno de desarrollo que desees como el devc++
 
 2. Comenzemos a modificar.
-    - ya tienes todo
+    - ya tienes todo, ahora puedes comenzar a codear y a hacer cambios y comentar esos mismo cambios en el codigo, esto lo puedes hacer de la siguiente manera.
+        - Ya tienes tu desarrollo de codigo?. Si no es asi que esperar a plasmar tu imaginacion en el codigo
+        - Iras a la app de github y comentaras tu code, asi. ![comentando](/imge/comentar.png).
+           - Escribe lo que quieras en el summary como un titulo.
+        - comenta y dale en commit to main.
+        ![comentando](/imge/cambios.png).
+
+## FELICITACIONES YA ERES UN EXPERTO EN GITHUB COMMITS :grin: :call_me_hand: :ok_hand:
