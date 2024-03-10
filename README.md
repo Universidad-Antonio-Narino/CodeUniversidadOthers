@@ -12,4 +12,6 @@
 > [!NOTE]
 > Esta opcion a mi parecer es mas dificil
 1. Si tu opcion fue github desktop este sera el vinculo [Github de escritorio](https://desktop.github.com/).
-   - para poder clonar el repositorio
+   - Debes primeramente descargar la app, es muy intuitiva, te reconoce el sistema operativo como el bin del sistema.
+   - Despues de eso te debes registrar en github como lo habia mencionado anteriormente, al ya estar registrado inicias sesion, te aparecera esto.
+     ![Imagen principio githubdesktop]()
