@@ -13,7 +13,7 @@
 > [!NOTE]
 > Sabras que esta clonando porque aparecera esto ![clonando...](/imge/yaClonado.png)
 > [!TIP]
-> Debes tener instalado bien sea visual studio code o devc++ para poder codear, como consejo es mejor que instales visual studio, te dejare el link de descarga. ![Link de instalacion vsd](https://code.visualstudio.com/download)
+> Debes tener instalado bien sea visual studio code o devc++ para poder codear, como consejo es mejor que instales visual studio, te dejare el link de descarga. [Link de instalacion vsd](https://code.visualstudio.com/download)
 
 2. Comenzemos a modificar.
     - ya tienes todo
