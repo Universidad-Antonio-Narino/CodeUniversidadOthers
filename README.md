@@ -14,4 +14,4 @@
 1. Si tu opcion fue github desktop este sera el vinculo [Github de escritorio](https://desktop.github.com/).
    - Debes primeramente descargar la app, es muy intuitiva, te reconoce el sistema operativo como el bin del sistema.
    - Despues de eso te debes registrar en github como lo habia mencionado anteriormente, al ya estar registrado inicias sesion, te aparecera esto.
-     ![Imagen principio githubdesktop]()
+     ![Imagen principio githubdesktop](/CodeUniversidadOthers/imge/Captura%20de%20pantalla%202024-03-10%20133121.png)
