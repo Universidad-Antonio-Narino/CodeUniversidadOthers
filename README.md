@@ -1,4 +1,4 @@
-LOS QUIERO MUCHACHOS GRACIAS P0R TENERNOS PACIENCIA :*
+
 #Repositorio de codigo proyectos Universidad
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
@@ -16,3 +16,4 @@ LOS QUIERO MUCHACHOS GRACIAS P0R TENERNOS PACIENCIA :*
 ## Github desde la app de github [Intro Github App](/GithubApp.md)
 ##Github desde terminal [Intro Github comand](/GithubComandPrompt.md)
 
+LOS QUIERO MUCHACHOS GRACIAS P0R TENERNOS PACIENCIA :*
