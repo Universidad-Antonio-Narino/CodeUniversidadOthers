@@ -4,7 +4,7 @@
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
-## Talleres codigo sql y uml graficos <3
+## Talleres codigo sql y uml graficos :hearts:
 >[!NOTE]
 > Se subira todos los talleres de codigo a este repositorio, en la carpeta de [ClasesBasesDeDatos](/ClaseBasesDeDatos/)
 
