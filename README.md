@@ -16,4 +16,4 @@
 ## Github desde la app de github [Intro Github App](/GithubApp.md) 
 ## Github desde terminal [Intro Github comand](/GithubComandPrompt.md)
 
-# LOS QUIERO MUCHACHOS GRACIAS P0R TENERNOS PACIENCIA :* <3 [heart](https://es.vecteezy.com/video/13274946-animacion-de-corazon-latiendo)
+# LOS QUIERO MUCHACHOS GRACIAS P0R TENERNOS PACIENCIA :kissing_heart: :hearts: [heart](https://es.vecteezy.com/video/13274946-animacion-de-corazon-latiendo)
