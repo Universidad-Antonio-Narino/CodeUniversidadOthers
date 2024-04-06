@@ -8,7 +8,7 @@
 >[!NOTE]
 > Se subira todos los talleres de codigo a este repositorio, en la carpeta de [ClasesBasesDeDatos](/ClaseBasesDeDatos/)
 
-## Explicacion de como poder acceder al repo, clonar la informacion y hacer todo lo relacionado al codigo <3
+## Explicacion de como poder acceder al repo, clonar la informacion y hacer todo lo relacionado al codigo :hearts:
 > [!IMPORTANT]
    >Es importante la creacion del github, imagino que si pudieron entrar aqui se supone que el github ya debe estar creado si no es momento de que lo hagas, te dejo el vinculo para que lo hagas
    >Vinculo para registrarse en github [Github registro](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home).
