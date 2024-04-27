@@ -171,11 +171,11 @@ BEGIN
             WHEN 10 THEN
                 SELECT * from libro;
             WHEN 0 THEN
-                LEAVE BandAppMenuLoop;
+                LEAVE LibraryMenuLoop;
             ELSE
                 SELECT 'Opción no válida. Inténtelo de nuevo.';
         END CASE;
-    END LOOP BandAppMenuLoop;
+    END LOOP LibraryMenuLoop;
 END //
 
 DELIMITER ;

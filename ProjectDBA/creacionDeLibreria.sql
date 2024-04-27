@@ -60,19 +60,3 @@ INSERT INTO libreriauan.transacion (isbn, tipoTransicion, fechaRealizacion, Cant
 ('978-059600712', 'Venta', '2024-04-26', 15);
 
 
-
-select * from libro inner join transacion on libro.isbn = transacion.isbn where libro.titulo = 'Moby Dick';
-select * from libro inner join transacion on libro.isbn = transacion.isbn;
-
-UPDATE libro l
-	JOIN (
-    SELECT isbn, SUM(CantidadEjemplares) AS TotalVendido
-    FROM transacion
-    WHERE tipoTransicion = 'Venta'
-    GROUP BY isbn
-	) t ON l.isbn = t.isbn
-	SET l.CantidadActualLibros = l.CantidadActualLibros - t.TotalVendido;
-    
-select * from libro inner join transacion on libro.isbn = transacion.isbn where transacion.tipoTransicion = "Venta";
-select titulo, sum(CantidadEjemplares) as ventasT from transacion,libro order by titulo;
-select * from libro inner join transacion on libro.isbn = transacion.isbn where transacion.tipoTransicion = "Abastecimiento";
